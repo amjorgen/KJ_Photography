@@ -1,0 +1,29 @@
+{
+  "name": "KJ_Photography",
+  "version": "1.0.0",
+  "description": "Kristine Jayne Photography Site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amjorgen/KJ_Photography.git"
+  },
+  "author": "Aaron Jorgenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amjorgen/KJ_Photography/issues"
+  },
+  "homepage": "https://github.com/amjorgen/KJ_Photography",
+  "dependencies": {
+    "body-parser": "^1.12.4",
+    "bootstrap": "^3.3.4",
+    "express": "^4.12.3"
+  },
+  "devDependencies": {
+    "connect": "^3.3.5",
+    "morgan": "^1.5.3"
+  }
+}
